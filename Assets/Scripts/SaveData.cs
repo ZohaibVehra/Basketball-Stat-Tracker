@@ -1,0 +1,174 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[System.Serializable]
+public class SaveData
+{
+    public string GameName;
+    public string GameTime;
+    public string GameDate;
+    public int playersnum;
+    public string finalScore;
+
+
+    public string P1name = "";
+    public int P1team = 0;
+    public int P1points = 0;
+    public int P1rebounds =0;
+    public int P1assists =0;
+    public int P1blocks= 0;
+    public int P1steals=0;
+    public string P1threes = "";
+    public string P1fgs = "";
+    public string P1threepercent = "";
+    public string P1fgpercent = "";
+    public string P1clutchpts = "";
+    public string P1clutchpercent = "";
+    public int P1turnovers = 0;
+    public int P1fouls = 0;
+
+    public string P2name = "";
+    public int P2team = 0;
+    public int P2points = 0;
+    public int P2rebounds = 0;
+    public int P2assists = 0;
+    public int P2blocks = 0;
+    public int P2steals = 0;
+    public string P2threes = "";
+    public string P2fgs = "";
+    public string P2threepercent = "";
+    public string P2fgpercent = "";
+    public string P2clutchpts = "";
+    public string P2clutchpercent = "";
+    public int P2turnovers = 0;
+    public int P2fouls = 0;
+
+    public string P3name = "";
+    public int P3team = 0;
+    public int P3points = 0;
+    public int P3rebounds = 0;
+    public int P3assists = 0;
+    public int P3blocks = 0;
+    public int P3steals = 0;
+    public string P3threes = "";
+    public string P3fgs = "";
+    public string P3threepercent = "";
+    public string P3fgpercent = "";
+    public string P3clutchpts = "";
+    public string P3clutchpercent = "";
+    public int P3turnovers = 0;
+    public int P3fouls = 0;
+
+    public string P4name = "";
+    public int P4team = 0;
+    public int P4points = 0;
+    public int P4rebounds = 0;
+    public int P4assists = 0;
+    public int P4blocks = 0;
+    public int P4steals = 0;
+    public string P4threes = "";
+    public string P4fgs = "";
+    public string P4threepercent = "";
+    public string P4fgpercent = "";
+    public string P4clutchpts = "";
+    public string P4clutchpercent = "";
+    public int P4turnovers = 0;
+    public int P4fouls = 0;
+
+    public string P5name = "";
+    public int P5team = 0;
+    public int P5points = 0;
+    public int P5rebounds = 0;
+    public int P5assists = 0;
+    public int P5blocks = 0;
+    public int P5steals = 0;
+    public string P5threes = "";
+    public string P5fgs = "";
+    public string P5threepercent = "";
+    public string P5fgpercent = "";
+    public string P5clutchpts = "";
+    public string P5clutchpercent = "";
+    public int P5turnovers = 0;
+    public int P5fouls = 0;
+
+    public string P6name = "";
+    public int P6team = 0;
+    public int P6points = 0;
+    public int P6rebounds = 0;
+    public int P6assists = 0;
+    public int P6blocks = 0;
+    public int P6steals = 0;
+    public string P6threes = "";
+    public string P6fgs = "";
+    public string P6threepercent = "";
+    public string P6fgpercent = "";
+    public string P6clutchpts = "";
+    public string P6clutchpercent = "";
+    public int P6turnovers = 0;
+    public int P6fouls = 0;
+
+    public string P7name = "";
+    public int P7team = 0;
+    public int P7points = 0;
+    public int P7rebounds = 0;
+    public int P7assists = 0;
+    public int P7blocks = 0;
+    public int P7steals = 0;
+    public string P7threes = "";
+    public string P7fgs = "";
+    public string P7threepercent = "";
+    public string P7fgpercent = "";
+    public string P7clutchpts = "";
+    public string P7clutchpercent = "";
+    public int P7turnovers = 0;
+    public int P7fouls = 0;
+
+    public string P8name = "";
+    public int P8team = 0;
+    public int P8points = 0;
+    public int P8rebounds = 0;
+    public int P8assists = 0;
+    public int P8blocks = 0;
+    public int P8steals = 0;
+    public string P8threes = "";
+    public string P8fgs = "";
+    public string P8threepercent = "";
+    public string P8fgpercent = "";
+    public string P8clutchpts = "";
+    public string P8clutchpercent = "";
+    public int P8turnovers = 0;
+    public int P8fouls = 0;
+
+    public string P9name = "";
+    public int P9team = 0;
+    public int P9points = 0;
+    public int P9rebounds = 0;
+    public int P9assists = 0;
+    public int P9blocks = 0;
+    public int P9steals = 0;
+    public string P9threes = "";
+    public string P9fgs = "";
+    public string P9threepercent = "";
+    public string P9fgpercent = "";
+    public string P9clutchpts = "";
+    public string P9clutchpercent = "";
+    public int P9turnovers = 0;
+    public int P9fouls = 0;
+
+    public string P10name = "";
+    public int P10team = 0;
+    public int P10points = 0;
+    public int P10rebounds = 0;
+    public int P10assists = 0;
+    public int P10blocks = 0;
+    public int P10steals = 0;
+    public string P10threes = "";
+    public string P10fgs = "";
+    public string P10threepercent = "";
+    public string P10fgpercent = "";
+    public string P10clutchpts = "";
+    public string P10clutchpercent = "";
+    public int P10turnovers = 0;
+    public int P10fouls = 0;
+}
