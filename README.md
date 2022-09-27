@@ -1,5 +1,9 @@
 # Basketball-Stat-Tracker
 
+![HomeScreen](https://user-images.githubusercontent.com/51506640/192491792-b3cd279c-4399-4cd0-bc56-4633e02a3496.jpg)
+
+![StatsScreen](https://user-images.githubusercontent.com/51506640/192491875-88bd63e6-1358-4b54-874c-570c31cec27e.jpg)
+
 A simple Basketball Stat Tracker created in Unity for Android devices. 
 Optimized for S21 resoltion of 2,400x1,080 pixels but should function for similar resolutions without concern
 
